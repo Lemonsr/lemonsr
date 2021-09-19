@@ -3,10 +3,7 @@
 </p>
 <table  align="center">
   <tbody>
-    <tr>
-      <td>&nbsp;Languages</td>
-      <td>Tools</td>
-    </tr>
+    <h4 align="center"> I have worked with: </h4>
     <tr>
       <td>
         &nbsp;
@@ -17,7 +14,7 @@
     <tr>
       <td>
         &nbsp;
-        <h4>Frontend Dev</h4>
+        <h4>Frontend Languages and Frameworks</h4>
       </td>
       <td>&nbsp;<a href="https://www.w3.org/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;</a><a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />&nbsp;</a><a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a></td>
     </tr>
