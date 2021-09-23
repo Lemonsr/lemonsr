@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Xin Yan! 💖</h1>
-<h3 align="center">I'm passionate about UI/UX and Game Art 💙</h3>
+<h3 align="center">I'm passionate about UI/UX Design 💙</h3>
 </p>
 <table  align="center">
   <tbody>
