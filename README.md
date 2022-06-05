@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Xin Yan! 💖<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"</h1>
+<h1 align="center">Hello, I'm Xin Yan! 💖</h1>
 <h3 align="center">I'm passionate about UX Development 💙</h3>
 
 </p>
