@@ -41,8 +41,6 @@
   </tbody>
 </table>
 
-</p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonsr&show_icons=true&theme=dracula&locale=en" alt="lemonsr" height="160" width=auto/></p>
 <p align="center">
   <img src="https://media0.giphy.com/media/kfRKF0iqA8jyDqq1nH/giphy.gif" width="100"/>
 </p>
